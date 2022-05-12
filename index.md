@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Pages
 
 ## Labs
-* [Lab 1](lab1.md)
+* [Lab 1](index.html)
 
 [//]: # (## Projects)
 [//]: # (## Assignments)
